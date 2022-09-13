@@ -31,7 +31,7 @@ title image
 ## Analysis Overview
 ### Purpose
 
-PyBer is a multi-billion dollar player in the ridesharing business. While I've only been with the company for two weeks, I was assigned to analyze all of the rideshare data from January to May 2019. I also needed to create a easy-to-view, yet compelling, charts for visualization.
+PyBer is a multi-billion dollar player in the rideshare business. While I've only been with the company for two weeks, I was assigned to analyze all of the rideshare data from January to May 2019, including compelling charts to visulalize the data for presentation to the board.
 <BR>
   
 I used two datasets in this project: ride data with the location, date, & fare per ride, as well as driver information. The data was gathered to compare the fares and quantity of rides & number of drivers for each city type. During the course of this project I was required to create dataframes, plot data into several different chart types, and perform multiple calculations. I made use of the tools available, including Matplotlib, Pandas, Python, and Jupyter Notebook.
@@ -59,6 +59,8 @@ I used two datasets in this project: ride data with the location, date, & fare p
 <img src="https://github.com/meggrooms/PyBer_Analysis/blob/main/Images/totals.png">  
         
 ### The differences in data among city types
+#### Rural vs. suburban & urban city types
+<img src="https://github.com/meggrooms/PyBer_Analysis/blob/main/Images/%25%20different%20from%20rural.png">
         
 
   
