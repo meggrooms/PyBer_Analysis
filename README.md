@@ -31,13 +31,11 @@ title image
 ## Analysis Overview
 ### Purpose
 
-PyBer is a multi-billion dollar player in the ridesharing business. I've been hired to analyze
+PyBer is a multi-billion dollar player in the ridesharing business. While I've only been with the company for two weeks, I was assigned to analyze all of the rideshare data from January to May 2019. I also needed to create a easy-to-view, yet compelling, charts for visualization.
+<BR>
+  
+I used two datasets in this project: ride data with the location, date, & fare per ride, as well as driver information. The data was gathered to compare the fares and quantity of rides & number of drivers for each city type. During the course of this project I was required to create dataframes, plot data into several different chart types, and perform multiple calculations. I made use of the tools available, including Matplotlib, Pandas, Python, and Jupyter Notebook.
 
-The purpose of the project was to analyze data for a ridesharing company called PyBer to calculate metrics related to the total weekly fares for each city type the rideshare company operates in. Datasets containing ride and city data were used to calculate metrics such as total rides, total drivers, total fares, average fare per ride and driver for each of the respective city types.The Data sets were also used to create a new data frame to find the average fare per week from January 1st 2019 to April 29th 2019 for each of the city types. The dataframe from the analysis was used to create a multiple-line graph that visualized the total weekly fares for each city type for the before mentioned period. The metrics and visualization created was then analyzed to provide recommendations to the CEO of Pyber to address any disparities among the city types.
-
-
-### Tools used
-#### These are the tools we implemented
 
 
 
