@@ -57,6 +57,7 @@ I used two datasets in this project: ride data with the location, date, & fare p
 
 
 <img src="https://github.com/meggrooms/PyBer_Analysis/blob/main/Images/totals.png" size=2>  
+ <BR><BR>
         
  _____________
         
