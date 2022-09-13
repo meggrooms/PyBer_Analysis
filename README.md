@@ -35,17 +35,42 @@ PyBer is a multi-billion dollar player in the ridesharing business. While I've o
 <BR>
   
 I used two datasets in this project: ride data with the location, date, & fare per ride, as well as driver information. The data was gathered to compare the fares and quantity of rides & number of drivers for each city type. During the course of this project I was required to create dataframes, plot data into several different chart types, and perform multiple calculations. I made use of the tools available, including Matplotlib, Pandas, Python, and Jupyter Notebook.
+<BR>
+  
+This analysis considers the following points among different city types:
+<BR>
+• Percentage of total rides
+  <BR>
+• Percentage of total drivers
+    <BR>
+• Percentage of total fares
+      <BR>
+• Average fare per ride and driver
+        <BR>
+• Total fare by city type
+          <BR><BR>
 
 
 
 
 ## Results
-### Description of differences in data among city types. 
+### Description of differences in data among city types
 <BR>
 Incld: ttl rides, ttl drivers, ttl fares, avg fare per ride/driver, ttl fare by city
-  
   <BR><BR>
+    
+•    
 
+<img src="https://github.com/meggrooms/PyBer_Analysis/blob/main/Images/totals.png">    
+    
+    
+    
+ <BR><BR>   
+ <img src="https://github.com/meggrooms/PyBer_Analysis/blob/main/Images/total%20percents.png">
+   
+   
+<BR><BR>
+<img src="https://github.com/meggrooms/PyBer_Analysis/blob/main/Images/fig%208%20-%20Ttl%20fare%20by%20city%20type.png">
   
 ## Summary
 ### Business recommendations
