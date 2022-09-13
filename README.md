@@ -38,7 +38,7 @@ I used two datasets in this project: ride data with the location, date, & fare p
 <BR>
   
 ## Analysis Results
-### The differences in data among city types
+
 
   
 #### Data points analyzed for all city types
@@ -55,7 +55,11 @@ I used two datasets in this project: ride data with the location, date, & fare p
 • Average fare per driver: $112
       <BR><BR>
 
+
 <img src="https://github.com/meggrooms/PyBer_Analysis/blob/main/Images/totals.png">  
+        
+### The differences in data among city types
+        
 
   
 Incld: ttl rides, ttl drivers, ttl fares, avg fare per ride/driver, ttl fare by city
