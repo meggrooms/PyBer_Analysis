@@ -58,8 +58,10 @@ I used two datasets in this project: ride data with the location, date, & fare p
 
 <img src="https://github.com/meggrooms/PyBer_Analysis/blob/main/Images/totals.png" size=2>  
         
-### The differences in data among city types
-#### Rural vs. suburban & urban city types
+ _____________
+        
+## The differences in data among city types
+### Rural vs. suburban & urban city types
 <img src="https://github.com/meggrooms/PyBer_Analysis/blob/main/Images/%25%20different%20from%20rural.png">
         
 
