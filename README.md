@@ -56,6 +56,19 @@ This analysis considers the following points among different city types:
 ## Analysis Results
 ### The differences in data among city types
 <BR>
+I analyzed a total of 2,375 rides from Jan 1, 2019 to April 30, 2019.
+<BR>
+During this period of time there were a total of:
+<BR>
+• 2.973 drivers<BR>
+• a total fare amount of    
+  <BR>
+• average fare per ride of 
+  <BR>
+• AVerage fare per driver 
+  <BR>
+
+  
 Incld: ttl rides, ttl drivers, ttl fares, avg fare per ride/driver, ttl fare by city
   <BR><BR>
     
