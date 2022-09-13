@@ -39,11 +39,11 @@ I used two datasets in this project: ride data with the location, date, & fare p
   
 ## Analysis Results
 ### The differences in data among city types
-    <BR>
+
   
 #### Data points for all city types
 
-      <BR>
+
 • Total rides: 
       <BR>
 • Total drivers
