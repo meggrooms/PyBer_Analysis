@@ -53,8 +53,8 @@ This analysis considers the following points among different city types:
 
 
 
-## Results
-### Description of differences in data among city types
+## Analysis Results
+### The differences in data among city types
 <BR>
 Incld: ttl rides, ttl drivers, ttl fares, avg fare per ride/driver, ttl fare by city
   <BR><BR>
