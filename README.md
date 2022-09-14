@@ -69,7 +69,7 @@ The following chart shows the percentage of fares, rides, and drivers by city ty
 
 __1. Increase the profitability of more-populated urban areas.__
   <BR>
- While urban cities make the most revenue, rural areas are more profitable. The number of rides requested in rural areas is steady because there they are     not heavily populated areas and likely won't become one, therefore there isn't a lot that can be done to increase the rides, and fare increase for this population is likely to have stronger opposition than in other areas. I recommend increasing the profitability of more-populated urban areas. 
+ While urban cities make the most revenue, rural areas are more profitable. The number of rides requested in rural areas is steady because they are not heavily populated areas and likely won't become so, therefore there isn't a lot that can be done to increase the rides. A fare increase for this population is also likely to have stronger opposition than in other areas. I recommend increasing the profitability of more-populated urban areas. 
   <BR>
 <BR>
   
