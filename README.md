@@ -44,9 +44,9 @@ I used two datasets in this project: ride data with the location, date, & fare p
       <BR><BR>
 • Total fare by city type:
       <BR>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rural: 6.8%
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suburban: 30.5%
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urban: 62.7%      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rural: 6.8%<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suburban: 30.5%<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urban: 62.7%      <BR>
 
 
 <img src="https://github.com/meggrooms/PyBer_Analysis/blob/main/Images/totals.png" size=2>  
