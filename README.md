@@ -22,7 +22,7 @@ I used two datasets in this project: ride data with the location, date, & fare p
 
 • Total rides: 2,375
       <BR>
-• Total drivers: 2.973
+• Total drivers: 2,973
       <BR>
 • Total fares: $63,539
       <BR>
