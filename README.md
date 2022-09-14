@@ -1,6 +1,6 @@
 # PyBer Ride Share Analysis
-### A relational study of rides, fares, and drivers and city types
-_____________
+#### A relational study of rides, fares, and drivers and city types
+
 
 
 
