@@ -92,9 +92,13 @@ __1. Increase the profitability of more-populated urban areas.__
   <BR>
 <BR>
   
-Currently there are more drivers than rides in urban communities, which is why I recommend cutting the number of drivers in urban areas. There are negative financial outcomes when it comes to drivers who aren't driving, including but not limited to, the loss of potential company revenue and the loss of driver tips.
+__2. Decrease number of drivers in urban areas.__
   <BR>
+Currently there is a glut of drivers in urban communities. Both PyBer and our drivers lose when this is the case. PyBer is impacted by the number of drivers who are being paid without work to do, the driver is impacted by lowering morale and financial hardship due to loss of tips.
 <BR>
+<br>
+  
+__3. 
   
 
 
