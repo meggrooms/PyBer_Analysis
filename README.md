@@ -1,8 +1,7 @@
 # PyBer Ride Share Analysis
-## A relational study of rides, fares, and drivers and city types
+### A relational study of rides, fares, and drivers and city types
 
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
+
 Links to images are working and displayed correctly. (2 pt)
 _____________
 Analysis (14 points)
@@ -22,7 +21,7 @@ _____________
 
 
 ## Analysis Overview
-### Purpose
+#### Purpose
 
 PyBer is a multi-billion dollar player in the rideshare business. While I've only been with the company for two weeks, I was assigned to analyze all of the rideshare data from January to May 2019, including compelling charts to visulalize the data for presentation to the board.
 <BR>
@@ -32,8 +31,6 @@ I used two datasets in this project: ride data with the location, date, & fare p
   <BR>
   
 ## Analysis Results
-
-
   
 #### Data points analyzed for all city types
 
