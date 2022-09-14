@@ -19,9 +19,6 @@ Summary:
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
 _____________
 
-# Title
-### subheading
-
 
 
 ## Analysis Overview
@@ -32,6 +29,7 @@ PyBer is a multi-billion dollar player in the rideshare business. While I've onl
   
 I used two datasets in this project: ride data with the location, date, & fare per ride, as well as driver information. The data was gathered to compare the fares and quantity of rides & number of drivers for each city type. During the course of this project I was required to create dataframes, plot data into several different chart types, and perform multiple calculations. I made use of the tools available, including Matplotlib, Pandas, Python, and Jupyter Notebook.
 <BR>
+  <BR>
   
 ## Analysis Results
 
