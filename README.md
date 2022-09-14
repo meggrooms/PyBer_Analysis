@@ -88,8 +88,11 @@ In response to the analysis performed, I suggest PyBer consider the following:
 <br>
   
 While urban cities make the most revenue, rural areas are more profitable. The number of rides requested in rural areas is steady because there they are not heavily populated areas and likely won't become one, therefore there isn't a lot that can be done to increase the rides, and fare increase for this population is likely to have stronger opposition than in other areas. I recommend increasing the profitability of more-populated urban areas.
+  <BR>
 <BR>
+  
 Currently there are more drivers than rides in urban communities, which is why I recommend cutting the number of drivers in urban areas. There are negative financial outcomes when it comes to drivers who aren't driving, including but not limited to, the loss of potential company revenue and the loss of driver tips.
+  <BR>
 <BR>
   
 
