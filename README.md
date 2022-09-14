@@ -83,5 +83,8 @@ The following chart shows the percentage of fares, rides, and drivers by city ty
 <img src="https://github.com/meggrooms/PyBer_Analysis/blob/main/Images/fig%208%20-%20Ttl%20fare%20by%20city%20type.png">
   
 ## Summary
-### Business recommendations
+### Business recommendations 
+In response to the analysis performed, I suggest PyBer consider the following:
+1. 
+  
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
