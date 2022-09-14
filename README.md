@@ -1,8 +1,5 @@
 # PyBer Ride Share Analysis
 ### A relational study of rides, fares, and drivers and city types
-
-
-Links to images are working and displayed correctly. (2 pt)
 _____________
 Analysis (14 points)
 The written analysis has the following:
@@ -45,6 +42,11 @@ I used two datasets in this project: ride data with the location, date, & fare p
       <BR>
 • Average fare per driver: $112
       <BR><BR>
+• Total fare by city type:
+      <BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rural: 6.8%
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suburban: 30.5%
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urban: 62.7%      
 
 
 <img src="https://github.com/meggrooms/PyBer_Analysis/blob/main/Images/totals.png" size=2>  
