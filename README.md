@@ -7,7 +7,7 @@ _____________
 ## Analysis Overview
 #### Purpose
 
-PyBer is a multi-billion dollar player in the rideshare business. While I've only been with the company for two weeks, I was assigned to analyze all of the rideshare data from January to May 2019, including compelling charts to visulalize the data for presentation to the board.
+PyBer is a multi-billion dollar player in the rideshare business. While I've only been with the company for two weeks, I was assigned to analyze all of the rideshare data from January to May 2019, including compelling charts to visualize the data for presentation to the board.
 <BR>
   
 I used two datasets in this project: ride data with the location, date, & fare per ride, as well as driver information. The data was gathered to compare the fares and quantity of rides & number of drivers for each city type. During the course of this project I was required to create dataframes, plot data into several different chart types, and perform multiple calculations. I made use of the tools available, including Matplotlib, Pandas, Python, and Jupyter Notebook.
@@ -73,12 +73,12 @@ __1. Increase the profitability of more-populated urban areas.__
   <BR>
 <BR>
   
-__2. Decrease number of drivers in urban areas.__
+__2. Decrease the number of drivers in urban areas.__
   <BR>
 Currently there is a glut of drivers in urban communities. Both PyBer and our drivers lose when this is the case. PyBer is impacted by the number of drivers who are being paid without work to do, the driver is impacted by lowering morale and financial hardship due to loss of tips.
 <BR>
 <br>
   
-__3.Perform more research.__
+__3. Perform more research.__
 <BR>
-Some of the items I suggest researching are the number of drivers vs population density, fare per minute/mile and how they correlate, and to find out when riders are mostly likely to request rides and use promotions.
+Some of the items I suggest researching are the number of drivers vs population density, fare per minute/mile and how they correlate, and to find out when riders are most likely to request rides and use promotions.
