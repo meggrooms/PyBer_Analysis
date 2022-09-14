@@ -22,7 +22,6 @@ Summary:
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
 _____________
 
-title image
 # Title
 ### subheading
 
@@ -98,10 +97,6 @@ Currently there is a glut of drivers in urban communities. Both PyBer and our dr
 <BR>
 <br>
   
-__3. 
-  
-
-
-  
-  
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+__3.Perform more research.__
+<BR>
+Some of the items I suggest researching are the number of drivers vs population density, fare per minute/mile and how they correlate, and to find out when riders are mostly likely to request rides and use promotions.
