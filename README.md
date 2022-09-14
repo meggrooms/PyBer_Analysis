@@ -28,7 +28,7 @@ I used two datasets in this project: ride data with the location, date, & fare p
       <BR>
 • Average fare per ride: $30
       <BR>
-• Average fare per driver: $112
+• Average fare per driver: $37
       <BR><BR>
 • Total fare by city type:
       <BR>
