@@ -72,7 +72,7 @@ As you can see from the charts above, while rural cities had far fewer rides & d
  <BR><BR>   
  <img src="https://github.com/meggrooms/PyBer_Analysis/blob/main/Images/total%20percents.png">
  <BR>
- The chart above represents the percentage of fares, rides, and drivers by city 
+ The chart above represents the percentage of fares, rides, and drivers by city type. The largest share of the market is without doubt the urban communities, with rural communities taking only 5.3% of rides during this period.
    
    
 <BR><BR>
