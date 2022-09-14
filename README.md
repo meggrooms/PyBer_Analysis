@@ -1,8 +1,5 @@
-# PyBer_Analysis
-_____________
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
+# PyBer Ride Share Analysis
+## A relational study of rides, fares, and drivers and city types
 
 There is a title, and there are multiple sections. (2 pt)
 Each section has a heading and subheading. (2 pt)
